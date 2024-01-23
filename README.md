@@ -3,7 +3,7 @@
 a data science endeavour to identify fraudulent transactions in transactions.
 
 <div align="center">
-    <img alt="churn" src="https://www.finance-monthly.com/Finance-Monthly/wp-content/uploads/2018/07/Fraud-Epidemic-Costs-%C2%A33.2-Trillion-Globally.jpg" width="100%" height="300">
+    <img alt="churn" src="https://images.pexels.com/photos/6266506/pexels-photo-6266506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="300">
 </div>
 
 <br>
